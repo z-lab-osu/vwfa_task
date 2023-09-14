@@ -1,0 +1,735 @@
+Subject,Run,Condition,Filename,Onset,Repeat,Response,RT,Accuracy
+subtest,3,3,line_pngs_grid/grid_BatBaseball.png,18.016,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_BatBaseball.png,18.6994,1,1,0.43475,1
+subtest,3,3,line_pngs_grid/grid_Snowman.png,19.3993,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_pliers.png,20.0826,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_PalmTree.png,20.7826,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Fryingpan.png,21.4659,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Fryingpan.png,22.1659,1,1,0.52373,1
+subtest,3,3,line_pngs_grid/grid_HornFrench.png,22.8493,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ8.png,23.5493,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_belt.png,24.2492,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Pig.png,24.9326,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Leaf.png,25.6326,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ18.png,26.316,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ22A.png,27.0159,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ35.png,27.6993,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_bowl.png,28.3992,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_door.png,29.0825,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Ant.png,29.7825,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_CHAIR_B.png,30.4658,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Racket.png,31.1658,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ31.png,31.8492,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Scissors.png,32.5492,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Guitar.png,33.2325,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Screwdriver.png,33.9325,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_WHEEL_A.png,34.6324,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ30.png,35.3158,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.00 PM.png,36.0158,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.16.15 PM.png,36.6991,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw12_3.png,37.3991,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw11_1.png,38.0824,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.45.03 PM.png,38.7824,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.05 PM.png,39.4657,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.23 PM.png,40.1657,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.43 PM.png,40.8491,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.59 PM.png,41.5491,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.34 PM.png,42.249,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw10_1.png,42.9324,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.48.26 PM.png,43.6323,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw4_1.png,44.3156,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.08 PM.png,45.0156,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw1_3.png,45.699,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.10.38 PM.png,46.399,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw5_2.png,47.0823,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.16 PM.png,47.7823,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.16 PM.png,48.4657,1,1,0.46905,1
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.08 PM.png,49.1656,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.11 PM.png,49.8489,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.21 PM.png,50.549,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.55.37 PM.png,51.2489,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw14_2.png,51.9322,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_lnface01.png,52.6322,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_lnface01.png,53.3155,1,1,0.4094,1
+subtest,3,5,letter_pngs_grid/d_lower copy.png,54.0155,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/B.png,54.6989,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/h_lower copy.png,55.3988,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/V copy.png,56.0822,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/V copy.png,56.7822,1,1,0.48424,1
+subtest,3,5,letter_pngs_grid/x_lower copy.png,57.4655,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/J.png,58.1655,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/f_lower copy.png,58.8488,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/v_lower copy.png,59.5488,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/o_lower.png,60.2488,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/R copy.png,60.9321,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/j_lower copy.png,61.6322,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/q_lower.png,62.3155,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/e_lower.png,63.0154,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/e_lower.png,63.6988,1,1,0.53457,1
+subtest,3,5,letter_pngs_grid/S.png,64.3987,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/q_lower copy.png,65.0821,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/L.png,65.782,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/z_lower copy.png,66.4654,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/I.png,67.1653,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/t_lower.png,67.8487,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/b_lower.png,68.5486,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Y copy.png,69.2486,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Y.png,69.932,0,1,0.43602,0
+subtest,3,5,letter_pngs_grid/k_lower copy.png,70.6319,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/E copy.png,71.3154,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_brick.png,72.0153,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_farm.png,72.6987,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_purse.png,73.3986,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_duck.png,74.082,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_shadow.png,74.7819,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_ribbon.png,75.4653,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_water.png,76.1652,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_kite.png,76.8486,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_liver.png,77.5485,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_army.png,78.2485,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_ankle.png,78.9319,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_sign.png,79.6318,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_sign.png,80.3152,1,1,0.52051,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_cloth.png,81.0152,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_mother.png,81.6985,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_nest.png,82.3985,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_rocket.png,83.0818,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_sugar.png,83.7818,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_jelly.png,84.4652,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_dress.png,85.1651,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_road.png,85.8651,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_film.png,86.5484,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_breeze.png,87.2318,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_pencil.png,87.9317,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_olive.png,88.6318,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_olive.png,89.315,1,1,0.41884,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_47.png,90.015,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_17 copy.png,90.6984,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_29 copy.png,91.3983,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_34 copy.png,92.0817,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_49 copy.png,92.7817,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_18 copy.png,93.465,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_19.png,94.165,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_03.png,94.8483,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_03.png,95.5483,1,1,0.52208,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_01.png,96.2483,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_44 copy.png,96.9317,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_08 copy.png,97.6316,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_51.png,98.3149,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_35 copy.png,99.0149,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_07 copy.png,99.6983,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_46 copy.png,100.3982,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_36 copy.png,101.0816,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_28.png,101.7816,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_02 copy.png,102.4649,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_11.png,103.1649,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_27 copy.png,103.8482,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_31 copy.png,104.5482,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_44.png,105.2481,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_41 copy.png,105.9316,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_42 copy.png,106.6315,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_42 copy.png,107.3149,1,1,0.59171,1
+subtest,3,1,word_pngs_grid/grid_cash.png,108.0148,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_shadow.png,108.6982,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_hill.png,109.3981,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_duck.png,110.0814,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mayor.png,110.7815,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_lemon.png,111.4648,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_flower.png,112.1647,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_radio.png,112.8647,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_radio.png,113.5481,1,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_radish.png,114.248,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_corner.png,114.9314,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_leaf.png,115.6313,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_gift.png,116.3148,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mast.png,117.0147,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_liver.png,117.698,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mate.png,118.3981,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_breeze.png,119.0814,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_flag.png,119.7813,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_knee.png,120.4647,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_water.png,121.1646,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_storm.png,121.8479,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_powder.png,122.548,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_powder.png,123.2479,1,1,0.52253,1
+subtest,3,1,word_pngs_grid/grid_farm.png,123.9312,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_pond.png,124.6313,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_army.png,125.3145,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_judge.png,126.0145,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_bridge.png,126.6979,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_letter.png,127.3978,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_cloth.png,128.0812,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_water.png,128.7812,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_airport.png,129.4646,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_chair.png,130.1645,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_park .png,130.8478,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_acorn.png,131.5478,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_duck.png,132.2478,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_hand.png,132.9311,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_hand.png,133.6311,1,1,0.46465,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_shower.png,134.3145,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_harbor.png,135.0144,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_gold.png,135.6978,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_liver.png,136.3977,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_army.png,137.0811,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_prince.png,137.781,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_mate.png,138.4644,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_mate.png,139.1643,1,1,0.43401,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_olive.png,139.8644,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_crystal.png,140.5477,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_pencil.png,141.2477,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_fire.png,141.931,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_lemon.png,142.631,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_feather.png,143.3144,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_pond.png,144.0143,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_lawn.png,144.6977,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_mast.png,145.3976,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_farm.png,146.081,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_lady.png,146.781,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_flower.png,147.4643,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_shadow.png,148.1642,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_powder.png,148.8643,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_powder.png,149.5476,1,1,0.60604,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_hawk.png,150.2475,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_face.png,150.9309,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_face.png,151.6309,1,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_dress.png,152.3143,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_string.png,153.0143,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_goat.png,153.6975,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_radio.png,154.3975,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_road.png,155.0808,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_finger.png,155.7808,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_butter.png,156.4642,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_label.png,157.1641,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_leaf.png,157.8641,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_corner.png,158.5475,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_camera.png,159.2474,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_sign.png,159.9308,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_purse.png,160.6307,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_film.png,161.3141,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_jelly.png,162.0141,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_ribbon.png,162.6974,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_coin.png,163.3974,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_coin.png,164.0808,1,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_beach.png,164.7808,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_peach.png,165.464,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_feather.png,166.1641,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_cloth.png,166.864,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_sign.png,167.5473,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_lady.png,168.2473,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_face.png,168.9307,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_apple.png,169.6306,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_ankle.png,170.314,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_brick.png,171.0139,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_chair.png,171.6973,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_cream.png,172.3973,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_school.png,173.0806,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_road.png,173.7806,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_road.png,174.4639,1,1,0.57462,1
+subtest,3,1,word_pngs_grid/grid_goat.png,175.1639,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_milk.png,175.8472,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_prince.png,176.5473,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_nest.png,177.2472,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_judge.png,177.9306,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_sugar.png,178.6305,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_snow.png,179.3138,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_40 copy.png,180.0138,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_35.png,180.6972,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_19 copy.png,181.3972,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_06.png,182.0805,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_41.png,182.7804,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_48.png,183.4638,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_52.png,184.1638,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_32.png,184.8471,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_42.png,185.5471,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_11 copy.png,186.2471,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_26 copy.png,186.9305,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_45.png,187.6304,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_16 copy.png,188.3138,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_43 copy.png,189.0138,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_43 copy.png,189.6971,1,1,0.60862,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_25 copy.png,190.397,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_04 copy.png,191.0804,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_07.png,191.7803,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_32 copy.png,192.4637,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_32 copy.png,193.1636,1,1,0.45172,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_50 copy.png,193.847,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_18.png,194.5469,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_49.png,195.247,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_22 copy.png,195.9303,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_39.png,196.6302,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_45 copy.png,197.3136,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_storm.png,198.0136,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_judge.png,198.6969,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_string.png,199.3969,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_label.png,200.0803,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_label.png,200.7802,1,1,0.38694,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_mayor.png,201.4636,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_beach.png,202.1636,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_lady.png,202.8469,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_mate.png,203.5469,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_apple.png,204.2468,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_rice.png,204.9302,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_sheep.png,205.6301,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_knee.png,206.3135,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_forest.png,207.0134,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_radish.png,207.6968,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_finger.png,208.3968,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_hawk.png,209.0802,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_school.png,209.7801,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_prince.png,210.4634,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_honey.png,211.1634,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_fire.png,211.8634,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_face.png,212.5467,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_hand.png,213.2301,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_flower.png,213.9301,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_flower.png,214.63,1,1,0.42951,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_feather.png,215.3133,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/u_lower.png,216.0133,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/W.png,216.6967,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/N copy.png,217.3966,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/H.png,218.08,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/B copy.png,218.7799,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/W copy.png,219.4633,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/D.png,220.1633,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/A.png,220.8632,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/l_lower.png,221.5466,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/D copy.png,222.2466,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/a_lower copy.png,222.9299,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Q.png,223.6299,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/K copy.png,224.3133,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/K copy.png,225.0132,1,1,0.47713,1
+subtest,3,5,letter_pngs_grid/y_lower.png,225.6966,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/n_lower.png,226.3965,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/j_lower.png,227.0799,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/T copy.png,227.7798,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/C copy.png,228.4632,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/T.png,229.1631,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/F.png,229.8465,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/C.png,230.5464,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Q copy.png,231.2464,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/G copy.png,231.9299,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/G copy.png,232.6298,1,1,0.53056,1
+subtest,3,5,letter_pngs_grid/r_lower.png,233.3132,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw15_1.png,234.0131,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw3_3.png,234.6964,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.24 PM.png,235.3964,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.18 PM.png,236.0797,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.17 PM.png,236.7797,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw8_2.png,237.4631,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.22 PM.png,238.163,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.45 PM.png,238.8464,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw16_2.png,239.5463,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.36 PM.png,240.2463,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.36 PM.png,240.9297,1,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.16 PM.png,241.6296,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.36 PM.png,242.313,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.20 PM.png,243.013,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.07 PM.png,243.6964,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw8_4.png,244.3963,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.08.30 PM.png,245.0796,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.08.30 PM.png,245.7796,1,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.54 PM.png,246.463,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw2_4.png,247.163,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.24 PM.png,247.8629,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.46 PM.png,248.5463,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw4_4.png,249.2463,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw6_3.png,249.9296,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw10_3.png,250.6295,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.44 PM.png,251.3129,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Elephant.png,252.0128,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_cherry.png,252.6962,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ31A.png,253.3961,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Lobster.png,254.0795,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_car.png,254.7795,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Eye.png,255.4628,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Sandwich.png,256.1628,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Broom.png,256.8461,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Bottle.png,257.5461,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_PipeSmoke.png,258.2461,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Tent.png,258.9295,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ39A.png,259.6294,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Lightbulb.png,260.3128,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_bed.png,261.0127,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ29.png,261.6961,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ1.png,262.3961,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ1.png,263.0794,1,1,0.52047,1
+subtest,3,3,line_pngs_grid/grid_church.png,263.7793,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ35A.png,264.4627,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Penguin.png,265.1627,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Key.png,265.8626,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_bread.png,266.546,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_boot.png,267.246,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ23A.png,267.9294,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ23A.png,268.6293,1,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ30A.png,269.3126,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.33 PM.png,290.0124,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.33 PM.png,290.6957,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.11.20 PM.png,291.3956,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.31 PM.png,292.079,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw14_1.png,292.7789,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.54.30 PM.png,293.4623,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.15 PM.png,294.1623,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.56 PM.png,294.8623,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.56 PM.png,295.5456,1,1,0.43573,1
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.23 PM.png,296.2456,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.19 PM.png,296.9289,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.26 PM.png,297.6289,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw2_1.png,298.3123,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.02 PM.png,299.0122,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.01 PM.png,299.6956,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.09 PM.png,300.3955,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.31 PM.png,301.0789,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.39 PM.png,301.7788,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw5_1.png,302.4622,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw7_2.png,303.1622,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.56 PM.png,303.8621,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.23 PM.png,304.5455,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.16 PM.png,305.2454,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw9_3.png,305.9288,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw9_3.png,306.6288,1,1,0.43111,1
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.58.51 PM.png,307.3122,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_coat.png,308.0121,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_jelly.png,308.6955,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_heel.png,309.3955,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_cash.png,310.0788,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_radish.png,310.7787,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_hill.png,311.462,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_hill.png,312.1621,1,1,0.52007,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_mayor.png,312.862,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_ribbon.png,313.5454,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_knee.png,314.2453,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_snow.png,314.9287,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_forest.png,315.6286,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_cream.png,316.3121,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_field.png,317.012,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_dentist.png,317.6954,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_peach.png,318.3953,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_breeze.png,319.0787,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_breeze.png,319.7786,1,1,0.37082,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_cherry.png,320.4619,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_beach.png,321.162,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_storm.png,321.8453,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_mouth.png,322.5453,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_coin.png,323.2452,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_rice.png,323.9286,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_sugar.png,324.6285,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_school.png,325.3119,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_paper.png,326.0119,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_butter.png,326.6952,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_peach.png,327.3951,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_radio.png,328.0785,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_gold.png,328.7785,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_lemon.png,329.4618,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_hill.png,330.1618,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_leaf.png,330.8451,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_pond.png,331.5451,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_camera.png,332.2451,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_coat.png,332.9285,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_powder.png,333.6284,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_milk.png,334.3118,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_acorn.png,335.0117,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_corner.png,335.6951,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_corner.png,336.395,1,1,0.40234,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_mast.png,337.0784,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_cherry.png,337.7783,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_mouth.png,338.4617,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_puzzle.png,339.1617,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_chair.png,339.845,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_gift.png,340.545,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_heart.png,341.245,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_fruit.png,341.9283,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_airport.png,342.6283,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_airport.png,343.3117,1,1,0.45457,1
+subtest,3,5,letter_pngs_grid/P.png,344.0116,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/X copy.png,344.695,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/H copy.png,345.3949,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/y_lower copy.png,346.0782,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/w_lower.png,346.7783,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/g_lower.png,347.4616,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/g_lower.png,348.1616,1,1,0.52248,1
+subtest,3,5,letter_pngs_grid/M.png,348.8449,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/k_lower.png,349.5449,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/G.png,350.2448,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/N.png,350.9282,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Z.png,351.6282,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/f_lower.png,352.3116,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/g_lower copy.png,353.0115,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/v_lower.png,353.6948,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/l_lower copy.png,354.3948,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/z_lower.png,355.0782,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/L copy.png,355.7781,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/L copy.png,356.4615,1,1,0.52016,1
+subtest,3,5,letter_pngs_grid/h_lower.png,357.1615,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/p_lower copy.png,357.8448,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/d_lower.png,358.5448,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/X.png,359.2447,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/K.png,359.9281,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/R.png,360.628,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/A copy.png,361.3114,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_park .png,362.0114,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_gold.png,362.6947,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_guest.png,363.3947,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_heart.png,364.0781,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_swamp.png,364.778,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_honey.png,365.4614,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_film.png,366.1613,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_film.png,366.8447,1,1,0.42588,1
+subtest,3,1,word_pngs_grid/grid_sheep.png,367.5446,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_coat.png,368.2447,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_label.png,368.928,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_puzzle.png,369.628,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_purse.png,370.3113,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_airport.png,371.0112,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_monkey.png,371.6946,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_harbor.png,372.3945,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_kite.png,373.0779,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_kite.png,373.7779,1,1,0.65313,1
+subtest,3,1,word_pngs_grid/grid_camera.png,374.4612,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_butter.png,375.1612,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_olive.png,375.8445,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_needle.png,376.5446,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_fruit.png,377.2445,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_frame.png,377.9278,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_rice.png,378.6278,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_bridge.png,379.3111,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Cat.png,380.0111,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ12.png,380.6945,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ5.png,381.3944,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_TRICYC_A.png,382.0778,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ36.png,382.7777,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_BatAnimal.png,383.4611,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_BatAnimal.png,384.161,1,1,0.37843,1
+subtest,3,3,line_pngs_grid/grid_Butterfly.png,384.8444,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ20.png,385.5444,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ38A.png,386.2444,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_ironingboard.png,386.9277,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_refrigerator.png,387.6277,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_BowTie.png,388.311,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Envelope.png,389.011,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Stool.png,389.6944,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ28A.png,390.3943,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Rollerskate.png,391.0777,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_chicken.png,391.7777,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_LAMP_B.png,392.4609,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ40.png,393.161,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_TV.png,393.8443,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Seahorse.png,394.5442,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ27A.png,395.2442,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_corn.png,395.9276,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ33A.png,396.6275,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ33A.png,397.3109,1,1,0.56031,1
+subtest,3,3,line_pngs_grid/grid_Kite.png,398.0109,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_purse.png,398.6942,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_arm.png,399.3942,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_HeartReal.png,400.0776,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Pitcher.png,400.7775,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Pitcher.png,401.4609,1,1,0.52191,1
+subtest,3,3,line_pngs_grid/grid_Banana.png,402.1608,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ42.png,402.8608,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Axe.png,403.5441,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Cup.png,404.2441,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Airplane.png,404.9275,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_alligator.png,405.6275,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Rockingchair.png,406.3108,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ33.png,407.0107,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_BowArrow.png,407.6941,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ2.png,408.3941,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ32.png,409.0774,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ37A.png,409.7774,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_PIANO_A.png,410.4607,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ34.png,411.1607,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_OBJ24A.png,411.8441,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_wineglass.png,412.544,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Telephone.png,413.244,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_CompassCircle.png,413.9274,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Fly.png,414.6273,0,0,NaN,0
+subtest,3,3,line_pngs_grid/grid_Fly.png,415.3107,1,1,0.39558,1
+subtest,3,5,letter_pngs_grid/w_lower copy.png,416.0107,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/n_lower copy.png,416.694,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/m_lower.png,417.3939,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/m_lower copy.png,418.0773,0,1,0.47834,0
+subtest,3,5,letter_pngs_grid/t_lower copy.png,418.7772,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/V.png,419.4772,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/s_lower.png,420.1606,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/F copy.png,420.8606,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/J copy.png,421.5439,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/e_lower copy.png,422.2439,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/i_lower.png,422.9272,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/U.png,423.6272,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/P copy.png,424.3106,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/P copy.png,425.0105,1,0,NaN,0
+subtest,3,5,letter_pngs_grid/b_lower copy.png,425.6939,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/r_lower copy.png,426.3938,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/O.png,427.0772,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/E.png,427.7771,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/i_lower copy.png,428.4604,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/M copy.png,429.1604,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/a_lower.png,429.8438,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/Z copy.png,430.5437,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/I copy.png,431.2437,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/I copy.png,431.9272,1,1,0.52282,1
+subtest,3,5,letter_pngs_grid/x_lower.png,432.6271,0,0,NaN,0
+subtest,3,5,letter_pngs_grid/p_lower.png,433.3104,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_apple.png,434.0104,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_frame.png,434.6937,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_frame.png,435.3937,1,1,0.64056,1
+subtest,3,2,scr_word_pngs_grid/grid_scr_nest.png,436.0771,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_nest.png,436.777,1,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_guest.png,437.4604,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_sheep.png,438.1604,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_mother.png,438.8603,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_kite.png,439.5437,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_monkey.png,440.2437,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_ankle.png,440.927,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_milk.png,441.6269,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_heart.png,442.3104,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_flag.png,443.0102,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_rocket.png,443.6937,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_needle.png,444.3936,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_flea.png,445.0769,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_swamp.png,445.7769,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_baby.png,446.4602,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_gift.png,447.1602,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_rose.png,447.8602,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_honey.png,448.5435,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_puzzle.png,449.2435,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_fruit.png,449.9268,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_brick.png,450.6268,0,0,NaN,0
+subtest,3,2,scr_word_pngs_grid/grid_scr_paper.png,451.3102,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_23 copy.png,452.0101,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_46.png,452.6935,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_52 copy.png,453.3934,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_15 copy.png,454.0768,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_21 copy.png,454.7768,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_40.png,455.4601,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_37.png,456.1602,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_09.png,456.8601,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_02.png,457.5435,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_12 copy.png,458.2434,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_12 copy.png,458.9267,1,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_39 copy.png,459.6267,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_38 copy.png,460.31,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_14.png,461.01,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_34.png,461.6934,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_04.png,462.3934,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_20.png,463.0767,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_05.png,463.7767,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_06 copy.png,464.46,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_29.png,465.16,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_15.png,465.8433,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_50.png,466.5433,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_13 copy.png,467.2433,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_13 copy.png,467.9267,1,1,0.43837,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_21.png,468.6266,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_25.png,469.31,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_swamp.png,470.0099,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_letter.png,470.6933,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_shower.png,471.3932,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_guest.png,472.0765,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_bridge.png,472.7766,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_cream.png,473.4599,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_rose.png,474.1599,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_lawn.png,474.8432,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_flea.png,475.5432,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_flag.png,476.2432,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_harbor.png,476.9265,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_harbor.png,477.6265,1,1,0.4846,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_baby.png,478.3099,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_monkey.png,479.0098,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_cash.png,479.6932,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_dentist.png,480.3931,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_park.png,481.0764,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_needle.png,481.7765,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_snow.png,482.4598,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_snow.png,483.1598,1,1,0.46931,1
+subtest,3,6,nonwords_pngs_grid/grid_nonword_frame.png,483.8597,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_goat.png,484.543,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_field.png,485.243,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_coin.png,485.9264,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_heel.png,486.6263,0,0,NaN,0
+subtest,3,6,nonwords_pngs_grid/grid_nonword_crystal.png,487.3097,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_forest.png,488.0096,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_shower.png,488.693,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_finger.png,489.3931,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_pencil.png,490.0763,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mouth.png,490.7763,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_hawk.png,491.4764,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_crystal.png,492.1596,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_rocket.png,492.8596,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mother.png,493.5429,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_mother.png,494.2429,1,1,0.47485,1
+subtest,3,1,word_pngs_grid/grid_fire.png,494.9263,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_hand.png,495.6262,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_acorn.png,496.3096,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_dress.png,497.0095,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_dress.png,497.6929,1,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_lawn.png,498.3928,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_cherry.png,499.0762,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_flea.png,499.7762,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_rose.png,500.4595,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_string.png,501.1596,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_baby.png,501.8595,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_heel.png,502.5429,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_paper.png,503.2428,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_letter.png,503.9262,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_dentist.png,504.6261,0,0,NaN,0
+subtest,3,1,word_pngs_grid/grid_field.png,505.3095,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw3_1.png,506.0095,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.31 PM.png,506.6928,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw11_3.png,507.3927,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw13_1.png,508.0761,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.31 PM.png,508.7761,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw1_1.png,509.4594,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw15_2.png,510.1594,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw15_2.png,510.8593,1,1,0.46192,1
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.06 PM.png,511.5427,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw7_4.png,512.2427,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.58 PM.png,512.926,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.34 PM.png,513.626,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.16.36 PM.png,514.3093,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw9_2.png,515.0093,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.21 PM.png,515.6926,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.05 PM.png,516.3926,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.23 PM.png,517.076,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.23 PM.png,517.776,1,1,0.49828,1
+subtest,3,4,face_pngs_grid/grid_face_draw13_2.png,518.4593,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.59 PM.png,519.1592,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw12_4.png,519.8592,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.11.18 PM.png,520.5426,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.58.02 PM.png,521.2425,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.55.13 PM.png,521.9258,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_face_draw16_1.png,522.6258,0,0,NaN,0
+subtest,3,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.49 PM.png,523.3093,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_10.png,524.0092,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_31.png,524.6926,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_22.png,525.3925,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_10 copy.png,526.0925,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_33 copy.png,526.7758,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_26.png,527.4592,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_13.png,528.1592,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_30 copy.png,528.8591,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_36.png,529.5425,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_36.png,530.2424,1,1,0.53404,1
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_08.png,530.9259,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_16.png,531.6257,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_24.png,532.3091,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_47 copy.png,533.009,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_47 copy.png,533.6924,1,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_43.png,534.3924,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_30.png,535.0757,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_05 copy.png,535.7757,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_38.png,536.459,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_23.png,537.159,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_01 copy.png,537.859,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_33.png,538.5423,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_17.png,539.2424,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_27.png,539.9257,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_12.png,540.6256,0,0,NaN,0
+subtest,3,7,nonletters_pngs_grid/grid_nonletter_37 copy.png,541.309,0,0,NaN,0
+,,,,,,,,
+Condition,Mean RT,Stddev,Accuracy,,,,,
+Words,0.5302,0.078853,0.625,,,,,
+Scr,0.50603,0.094409,0.75,,,,,
+Lines,0.47645,0.066718,0.875,,,,,
+Faces,0.45092,0.028983,0.75,,,,,

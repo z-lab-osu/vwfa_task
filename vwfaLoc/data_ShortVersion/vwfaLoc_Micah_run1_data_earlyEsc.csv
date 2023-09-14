@@ -1,0 +1,417 @@
+Subject,Run,Condition,Filename,Onset,Repeat,Response,RT,Accuracy
+Micah,6,3,line_pngs_grid/grid_OBJ18.png,18.0285,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ29.png,18.711,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_HeartReal.png,19.3946,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ20.png,20.0948,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_ironingboard.png,20.7777,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_door.png,21.4776,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ22A.png,22.1608,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_BatBaseball.png,22.861,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ40.png,23.5434,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Axe.png,24.2437,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_wineglass.png,24.9446,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Sandwich.png,25.6293,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Elephant.png,26.329,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Scissors.png,27.011,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Butterfly.png,27.7112,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ39A.png,28.3936,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ1.png,29.0946,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ32.png,29.7768,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Tent.png,30.4782,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Tent.png,31.1784,1,1,0.52779,1
+Micah,6,3,line_pngs_grid/grid_PalmTree.png,31.8624,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_PalmTree.png,32.561,1,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_TRICYC_A.png,33.2434,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_WHEEL_A.png,33.944,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Snowman.png,34.6293,0,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Pig.png,35.3293,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_feather.png,36.0109,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_ankle.png,36.7112,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_puzzle.png,37.3943,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_radio.png,38.0941,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_leaf.png,38.7777,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_pond.png,39.4784,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_judge.png,40.1781,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_dress.png,40.8618,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_sugar.png,41.5607,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_cloth.png,42.2442,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_fire.png,42.9451,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_olive.png,43.6279,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_face.png,44.3287,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_monkey.png,45.0106,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_knee.png,45.711,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_knee.png,46.3945,1,1,0.46313,1
+Micah,6,2,scr_word_pngs_grid/grid_scr_paper.png,47.094,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_gold.png,47.777,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_hawk.png,48.4773,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_hawk.png,49.1786,1,1,0.61183,1
+Micah,6,2,scr_word_pngs_grid/grid_scr_goat.png,49.8606,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_corner.png,50.5606,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_army.png,51.2432,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_brick.png,51.9447,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_radish.png,52.6272,0,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_fruit.png,53.3284,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.24 PM.png,54.011,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw6_3.png,54.7109,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw6_3.png,55.3932,1,1,0.51978,1
+Micah,6,4,face_pngs_grid/grid_face_draw12_3.png,56.094,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.09 PM.png,56.7771,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw14_1.png,57.478,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw1_1.png,58.1606,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.21 PM.png,58.8605,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.26 PM.png,59.5611,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw16_1.png,60.2434,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.08 PM.png,60.9452,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.11.20 PM.png,61.6278,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.58.51 PM.png,62.3289,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw5_2.png,63.0106,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.54 PM.png,63.7105,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.24 PM.png,64.3934,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.08.30 PM.png,65.0942,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.31 PM.png,65.7776,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.45 PM.png,66.4782,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.19 PM.png,67.1779,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.15 PM.png,67.8605,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.15 PM.png,68.5611,1,1,0.64832,1
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.44 PM.png,69.2437,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw14_2.png,69.944,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.43 PM.png,70.6277,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.18 PM.png,71.3288,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_heart.png,72.0109,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_baby.png,72.7108,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_pencil.png,73.3936,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_cherry.png,74.0939,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_lawn.png,74.7769,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_cash.png,75.4776,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_fruit.png,76.1778,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_cloth.png,76.8606,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_fire.png,77.5609,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_coin.png,78.2436,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_honey.png,78.9438,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_honey.png,79.6265,1,1,0.60957,1
+Micah,6,1,word_pngs_grid/grid_sheep.png,80.3275,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_paper.png,81.0103,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_flag.png,81.7105,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_dentist.png,82.393,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_ribbon.png,83.0929,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_hill.png,83.776,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_breeze.png,84.4781,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_peach.png,85.1597,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_peach.png,85.8605,1,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_flea.png,86.5606,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_olive.png,87.2432,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_ankle.png,87.9435,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_purse.png,88.6265,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_rose.png,89.3274,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_judge.png,90.0104,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_sign.png,90.7107,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_apple.png,91.3939,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_string.png,92.0936,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_water.png,92.7761,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_lemon.png,93.4766,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_sugar.png,94.1782,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_harbor.png,94.8604,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_milk.png,95.5605,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_knee.png,96.2434,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_puzzle.png,96.9437,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_puzzle.png,97.6263,1,1,0.47547,1
+Micah,6,1,word_pngs_grid/grid_jelly.png,98.3269,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_rocket.png,99.0097,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_snow.png,99.711,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_snow.png,100.3926,1,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_flower.png,101.0934,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_gift.png,101.7761,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_gold.png,102.4765,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_mate.png,103.1774,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_letter.png,103.8603,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_school.png,104.5606,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_hawk.png,105.2423,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_film.png,105.9438,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_field.png,106.6269,0,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_radio.png,107.3259,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.33 PM.png,108.0095,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.06 PM.png,108.7101,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.01 PM.png,109.3923,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.59 PM.png,110.0933,0,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.36 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw4_4.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw15_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.55.13 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw11_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.31 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw10_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw10_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.23 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.56 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.11.18 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.09.39 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.23 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.16 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.31 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.51.31 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.45.03 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.57.20 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw8_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.48.26 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.02 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.23 PM.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_sign.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_label.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_sheep.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_sheep.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_coat.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_powder.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_kite.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_lady.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_needle.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_flea.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_butter.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_gift.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_gift.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_school.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_beach.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_apple.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_mate.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_hill.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_prince.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_snow.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_milk.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_mouth.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_flag.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_jelly.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_nest.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_lawn.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Screwdriver.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ36.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ2.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Bottle.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_car.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ27A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ27A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ8.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Telephone.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_bed.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_church.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ30A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ30A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Lightbulb.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Envelope.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ30.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ33A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_arm.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_CompassCircle.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ33.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ42.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_PipeSmoke.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_pliers.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_BowArrow.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Rollerskate.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_bowl.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_forest.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_duck.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_cherry.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_rocket.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_airport.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_mast.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_liver.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_honey.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_breeze.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_crystal.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_rose.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_harbor.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_acorn.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_pencil.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_pencil.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_hand.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_bridge.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_heel.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_storm.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_road.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_ribbon.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_camera.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_shower.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_shower.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_cash.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_rice.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_camera.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_shadow.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_kite.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_beach.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_butter.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_butter.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_duck.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_coat.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_goat.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_mouth.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_liver.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_pond.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_airport.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_storm.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_shower.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_swamp.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_hand.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_road.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_farm.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_guest.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_guest.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_dress.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_mother.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_nest.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_prince.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_chair.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw2_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw7_4.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.59 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.22 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.34 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.34 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.56 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.54.30 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.46 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.16 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.17.11 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.31 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.33 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.13.33 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.05 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw9_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw9_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.23 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.47.36 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.16 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw1_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw10_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw15_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw5_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.14.17 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw3_1.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_corn.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_boot.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_PIANO_A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_alligator.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_BatAnimal.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ34.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ38A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Lobster.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Guitar.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Guitar.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Kite.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ37A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ24A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ24A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Pitcher.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ12.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ35.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Leaf.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Penguin.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_chicken.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ35A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_cherry.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_LAMP_B.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ31.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_purse.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Fly.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ31A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Cup.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Stool.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Airplane.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ23A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_belt.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Seahorse.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_HornFrench.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Racket.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Ant.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Banana.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Eye.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_bread.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_TV.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Key.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Key.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_refrigerator.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_refrigerator.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ28A.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Cat.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_BowTie.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Rockingchair.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Fryingpan.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_OBJ5.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_Broom.png,,,0,NaN,0
+Micah,6,3,line_pngs_grid/grid_CHAIR_B.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw16_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.16.36 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw7_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw2_4.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.08 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw13_2.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.15.21 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.49 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.53.49 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.52.58 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.58.02 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_lnface01.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.56.07 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw12_4.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw4_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw3_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw8_4.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.00 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw13_1.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.10.38 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.16.15 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 1.55.37 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 3.46.34 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_Screen Shot 2014-04-11 at 2.12.05 PM.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw11_3.png,,,0,NaN,0
+Micah,6,4,face_pngs_grid/grid_face_draw11_3.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_needle.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_monkey.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_bridge.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_crystal.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_leaf.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_feather.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_frame.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_frame.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_acorn.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_cream.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_corner.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_finger.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_forest.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_rice.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_rice.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_powder.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_army.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_lady.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_mast.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_label.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_face.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_brick.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_radish.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_mayor.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_heel.png,,,0,NaN,0
+Micah,6,1,word_pngs_grid/grid_park .png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_shadow.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_chair.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_field.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_field.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_water.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_string.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_mother.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_baby.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_flower.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_film.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_film.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_purse.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_cream.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_heart.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_finger.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_guest.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_mayor.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_lemon.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_frame.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_coin.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_swamp.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_park .png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_letter.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_peach.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_farm.png,,,0,NaN,0
+Micah,6,2,scr_word_pngs_grid/grid_scr_dentist.png,,,0,NaN,0
