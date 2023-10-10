@@ -41,13 +41,16 @@ with open('updated_numbers.txt', 'r') as file:
     random_numbers = [int(line.strip()) for line in file.readlines()]
 
 # Read image file paths from a text file
-with open(os.path.join(stims_dir, 'conditions\\FaceConditions_1.csv'), 'r') as file:
+with open(os.path.join(stims_dir, 'word_images.txt'), 'r') as file:
     image_paths = [line.strip().split('. ')[1] for line in file.readlines()]
 
 # Initialize PsychoPy window
 win = visual.Window(size=(800, 600), fullscr=False, units='pix')
 
 # Prepare image stimuli
+#this is the line of code that actually puts the list together
+#creates a list called image stimuli
+#[number - 1] is indexing out the filepath at a given index in random_numbers (-1 to account for the way it counts from 0)
 image_stimuli = [visual.ImageStim(win=win, image=image_paths[number - 1]) for number in random_numbers]
 
 # Presentation durations
@@ -71,3 +74,6 @@ for image_stimulus in image_stimuli:
 # Close the PsychoPy window
 win.close()
 core.quit()
+
+#%%
+
